@@ -37,6 +37,17 @@ This One World Currency (OWC) APP aims to provide various functionalities relate
  ![](/Images/training_results_CHF.png)
  ![](/Images/training_results_EUR.png)
 
+## Below is the graphical forecast for AUD only
+  ![](/Images/AUD_forecast_plot.png)
+  
+## Below is the graphical forecast for CHF only
+  ![](/Images/CHF_forecast_plot.png)
+  
+## Below is the graphical forecast for EUR only
+  ![](/Images/EUR_forecast_plot.png)
+
+
+
 ## Conclusion
 The One World Currency (OWC) APP provides users with a robust and versatile toolkit. By seamlessly integrating features such as data retrieval, conversion, visualisation, analysis, forecasting, investment insights, and chatbot interaction, the application enhances the user experience, facilitating informed decision-making in the realm of global currencies. OWC empowers users to navigate the complexities of the financial landscape, enabling them to make intelligent and well-informed choices regarding currency transactions and investments.
 
