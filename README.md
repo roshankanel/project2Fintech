@@ -1,7 +1,5 @@
 <h1> One World Currency</h1>
-This One World Currency (OWC) APP aims to provide various functionalities related to currency conversion, currency analysis, and currency forecasting. 
-<br>
-Our APP utilises the following steps to determine the “best investment outlook” for its user:
+This One World Currency (OWC) APP aims to provide various functionalities related to currency conversion, currency analysis, and currency forecasting. Our APP utilises the following steps to determine the “best investment outlook” for its user:
 <br><br>
 <b>- Currency Data Retrieval:</b> OWC retrieves currency data using the ExchangeRate-API to obtain the latest currency conversion rates.
 <br><br>
