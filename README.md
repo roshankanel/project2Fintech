@@ -20,6 +20,9 @@ Our APP utilises the following steps to determine the “best investment outlook
 <b>- Chatbot Interface:</b> Finally, OWC includes a chatbot interface powered by OpenAI's text-based language model. Users can interact with the chatbot to ask questions or seek any further assistance regarding currency-related topics.
 
 ## Before you run the application
+ - You will find two ipynb files
+    - FINALPROJECT@.ipynb is the one that we draw all the conclusion form
+    - neural_network_try.pynb is for our neural test. But due to insufficient data, we couldnot draw the conclution.
  - Make sure you run below
     1. !pip install folium
     2. !pip install xgboost
