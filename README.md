@@ -18,3 +18,6 @@ Our APP utilises the following steps to determine the “best investment outlook
 <b>- Unique Algorithm:</b> The process to generating the currency with the best investment outlook, is an algorithm unique to OWC. 
 <br><br>
 <b>- Chatbot Interface:</b> Finally, OWC includes a chatbot interface powered by OpenAI's text-based language model. Users can interact with the chatbot to ask questions or seek any further assistance regarding currency-related topics.
+
+## Below is the graphical output of our application
+ ![](/Images/forecast_results_AUD.png)
