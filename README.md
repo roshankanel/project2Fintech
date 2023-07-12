@@ -19,6 +19,12 @@ Our APP utilises the following steps to determine the “best investment outlook
 <br><br>
 <b>- Chatbot Interface:</b> Finally, OWC includes a chatbot interface powered by OpenAI's text-based language model. Users can interact with the chatbot to ask questions or seek any further assistance regarding currency-related topics.
 
+## Before you run the application
+ - Make sure you run below
+    1. !pip install folium
+    2. !pip install xgboost
+    3. !pip install openai
+    4. !pip install Console
 
 ## Below is the graphical forecast output (AUD, CHF, EUR) of our application
  ![](/Images/forecast_results_AUD.png)
