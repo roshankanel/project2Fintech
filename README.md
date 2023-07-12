@@ -1,7 +1,5 @@
 <h1> One World Currency</h1>
-This One World Currency (OWC) APP aims to provide various functionalities related to currency conversion, currency analysis, and currency forecasting. 
-<br>
-Our APP utilises the following steps to determine the “best investment outlook” for its user:
+This One World Currency (OWC) APP aims to provide various functionalities related to currency conversion, currency analysis, and currency forecasting. Our APP utilises the following steps to determine the “best investment outlook” for its user:
 <br><br>
 <b>- Currency Data Retrieval:</b> OWC retrieves currency data using the ExchangeRate-API to obtain the latest currency conversion rates.
 <br><br>
@@ -21,8 +19,8 @@ Our APP utilises the following steps to determine the “best investment outlook
 
 ## Before you run the application
  - You will find two ipynb files
-    - FINALPROJECT@.ipynb is the one that we draw all the conclusion form
-    - neural_network_try.pynb is for our neural test. But due to insufficient data, we couldnot draw the conclution.
+    - FINALPROJECT.ipynb is where we have drawn our conclusion from.
+    - neural_network_try.pynb is for our neural test. However, due to insufficient data, we did not draw a conlusion from the model.
  - Make sure you run below
     1. !pip install folium
     2. !pip install xgboost
@@ -40,4 +38,5 @@ Our APP utilises the following steps to determine the “best investment outlook
  ![](/Images/training_results_EUR.png)
 
 ## Conclusion
+The One World Currency (OWC) APP provides users with a robust and versatile toolkit. By seamlessly integrating features such as data retrieval, conversion, visualisation, analysis, forecasting, investment insights, and chatbot interaction, the application enhances the user experience, facilitating informed decision-making in the realm of global currencies. OWC empowers users to navigate the complexities of the financial landscape, enabling them to make intelligent and well-informed choices regarding currency transactions and investments.
 
