@@ -19,5 +19,14 @@ Our APP utilises the following steps to determine the “best investment outlook
 <br><br>
 <b>- Chatbot Interface:</b> Finally, OWC includes a chatbot interface powered by OpenAI's text-based language model. Users can interact with the chatbot to ask questions or seek any further assistance regarding currency-related topics.
 
-## Below is the graphical output of our application
+## Below is the graphical forecast output (AUD, CHF, EUR) of our application
  ![](/Images/forecast_results_AUD.png)
+ ![](/Images/forecast_results_CHF.png)
+ ![](/Images/forecast_results_EUR.png)
+
+## Below is the graphical training output (AUD, CHF, EUR) of our application
+ ![](/Images/training_results_AUD.png)
+ ![](/Images/training_results_CHF.png)
+ ![](/Images/training_results_EUR.png)
+
+## Conclusion
