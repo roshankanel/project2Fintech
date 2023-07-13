@@ -18,9 +18,8 @@ This One World Currency (OWC) APP aims to provide various functionalities relate
 <b>- Chatbot Interface:</b> Finally, OWC includes a chatbot interface powered by OpenAI's text-based language model. Users can interact with the chatbot to ask questions or seek any further assistance regarding currency-related topics.
 
 ## Before you run the application
- - You will find two ipynb files
-    - FINALPROJECT.ipynb is where we have drawn our conclusion from.
-    - neural_network_try.pynb is for our neural test. However, due to insufficient data, we did not draw a conlusion from the model.
+ - You will find an ipynb file
+    - FINALPROJECT.ipynb is where we have drawn our results from
  - Make sure you run below
     1. !pip install folium
     2. !pip install xgboost
